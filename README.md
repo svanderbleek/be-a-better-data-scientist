@@ -12,4 +12,5 @@
 
 * Distribution over W-L records and playoff seeding in divisions like NBA/NFL
   * For example in NBA right now 8th seeds have losing records, how expected would this outcome be?
-  * Top heavy winning teams vs parity type distributions
+  * Top heavy vs parity, different resulting distributions based on these initial conditions
+  * [Predicting Playoff Position Probability](https://fansided.com/2019/02/07/nylon-calculus-predicting-playoff-position-probability/)
