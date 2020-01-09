@@ -54,3 +54,30 @@ Top heavy vs parity, different resulting distributions based on these initial co
 #### Projections
 
 * [The Math of Fantasy Football](https://web.wpi.edu/Pubs/E-project/Available/E-project-042513-140309/unrestricted/ASL_MQP_jpa.pdf)
+
+### Statistical Dynamics in Online Dating
+
+#### Papers
+
+* Dating Relationships in Older Adulthood: A National Portrait
+* [Online Dating: A Critical Analysis From the
+Perspective of Psychological Science](https://www3.nd.edu/~ghaeffel/OnineDating_Aron.pdf)
+* What Happens After You Both Swipe Right: A Statistical Description of Mobile Dating Communications
+* Dynamics of Internet Dating
+* [Aspirational pursuit of mates in online dating markets](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6082652/)
+* The matching hypothesis reexamined
+* Leveling the playing field: Longer acquaintance predicts reduced assortative mating on attractiveness
+* Relational mate value: Consensus and uniqueness in romantic evaluations
+* Non-independent mate choice in humans: Deciphering and utilizing information in a social environment
+* Hunter-gatherer social networks and reproductive success
+* It takes two to tango: Reproductive skew and social correlates of male mating success in a lek-breeding bird
+* The mating sociometer: A regulatory mechanism for mating aspirations
+* Who’s right and who writes: People, profiles, contacts, and replies in online dating
+* How self-assessments can guide human mating decisions
+* Relational mate value: Consensus and uniqueness in romantic evaluations
+* Searching for a mate: The rise of the Internet as a social intermediary
+
+#### Examples
+
+* [Optimal Stopping and Dating Preferences](https://towardsdatascience.com/probability-theory-and-the-optimal-dating-strategy-for-2018-2b75b26fb0b)
+* [Online Dating Report](https://www.kaspersky.com/blog/online-dating-report/)
