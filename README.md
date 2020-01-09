@@ -14,3 +14,5 @@
   * For example in NBA right now 8th seeds have losing records, how expected would this outcome be?
   * Top heavy vs parity, different resulting distributions based on these initial conditions
   * [Predicting Playoff Position Probability](https://fansided.com/2019/02/07/nylon-calculus-predicting-playoff-position-probability/)
+    * Bayesian Inference
+    * Binomial Likelihood
