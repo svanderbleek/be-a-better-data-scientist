@@ -16,3 +16,4 @@
   * [Predicting Playoff Position Probability](https://fansided.com/2019/02/07/nylon-calculus-predicting-playoff-position-probability/)
     * Bayesian Inference
     * Binomial Likelihood
+  * [THE IMPACT OF SUPERTEAMS AND PARITY ON THE NBA](https://scholarsbank.uoregon.edu/xmlui/bitstream/handle/1794/24005/Final%20Thesis-Finci.pdf?sequence=1&isAllowed=y)
