@@ -13,6 +13,8 @@
 ### Distribution over W-L records and playoff seeding in divisions like NBA/NFL
 
 For example in NBA right now 8th seeds have losing records, how expected would this outcome be?
+
+* [The dreadful race for 8th in the NBA's Western Conference is incredibly unfamiliar](https://www.espn.com/nba/story/_/id/28450353/the-dreadful-race-8th-nba-western-conference-incredibly-unfamiliar)
   
 #### Standings
 
