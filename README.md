@@ -59,6 +59,7 @@ Top heavy vs parity, different resulting distributions based on these initial co
 #### Projections
 
 * [The Math of Fantasy Football](https://web.wpi.edu/Pubs/E-project/Available/E-project-042513-140309/unrestricted/ASL_MQP_jpa.pdf)
+* https://www.inpredictable.com/p/methodology.html
 
 ### Statistical Dynamics in Online Dating
 
