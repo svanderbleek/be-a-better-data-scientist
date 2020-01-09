@@ -76,8 +76,20 @@ Perspective of Psychological Science](https://www3.nd.edu/~ghaeffel/OnineDating_
 * How self-assessments can guide human mating decisions
 * Relational mate value: Consensus and uniqueness in romantic evaluations
 * Searching for a mate: The rise of the Internet as a social intermediary
+* Targeted search in matching markets
+* Online exogamy reconsidered: Estimating the Internet's effects on racial, educational, religious, political and age assortative mating
+* Polar Similars: using massive mobile dating data to predict dating preferences
+* Searching Forever After
+* Beauty and Counter-signaling in Online Matching Markets: Evidence from a Randomized Field Experiment
+* Gender-specific preference in online dating
+* Pragmatic Men, Romantic Women? Performance Feedback Design on Two-sided Matching Platforms
+* Waiting to Be Asked: Gender, Power, and Relationship
+* Unequal distribution of power in young adult relationships more harmful to women
+* Gender differences in mate selection
+* The Truth about Lying in Online Dating Profiles
 
-#### Examples
+#### Articles
 
 * [Optimal Stopping and Dating Preferences](https://towardsdatascience.com/probability-theory-and-the-optimal-dating-strategy-for-2018-2b75b26fb0b)
 * [Online Dating Report](https://www.kaspersky.com/blog/online-dating-report/)
+* [Is Dating Unfair](https://www.waytoosocial.com/is-dating-unfair/)
