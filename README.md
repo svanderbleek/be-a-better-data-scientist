@@ -14,6 +14,10 @@
   * bayesian multi-level models
 * [Building Energy Use](https://towardsdatascience.com/a-complete-machine-learning-walk-through-in-python-part-one-c62152f39420)
 
+## Exercises
+
+* [USING SINGULAR VALUE DECOMPOSITION TO COMPRESS AN IMAGE OF AN ALLOSAURUS](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxuYXNsdW5kZXJpY3xneDpkMTI4OTI1NTc4YjRlOGE)
+
 ## Project Ideas
 
 ### Distribution over W-L records and playoff seeding in divisions like NBA/NFL
