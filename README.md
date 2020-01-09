@@ -87,9 +87,37 @@ Perspective of Psychological Science](https://www3.nd.edu/~ghaeffel/OnineDating_
 * Unequal distribution of power in young adult relationships more harmful to women
 * Gender differences in mate selection
 * The Truth about Lying in Online Dating Profiles
+* Courting Trouble: A Qualitative Examination of Sexual Inequality in Partnering Practice
+* Why I Don’t Have a Girlfriend
+* [Inattentive and Contented: Relationship Commitment and Attention to Alternatives](http://ruby.fgcu.edu/courses/twimberley/10199/psy/inattentive.pdf)
+* Counting members in my league: Mate value moderates economic effects of local operational sex ratio
+* Singles of both sexes expedite reproduction: Shifts in sexual-timing strategies before and after the typical age of female menopause
+* Prevalence and types of sexual inactivity in Britain: analyses of national cross-sectional probability survey data
 
 #### Articles
 
 * [Optimal Stopping and Dating Preferences](https://towardsdatascience.com/probability-theory-and-the-optimal-dating-strategy-for-2018-2b75b26fb0b)
 * [Online Dating Report](https://www.kaspersky.com/blog/online-dating-report/)
 * [Is Dating Unfair](https://www.waytoosocial.com/is-dating-unfair/)
+* [These statistics show why it’s so hard to be an average man on dating apps](https://qz.com/1051462/these-statistics-show-why-its-so-hard-to-be-an-average-man-on-dating-apps/)
+* [Tinder Experiments II: Guys, unless you are really hot you are probably better off not wasting your time on Tinder — a quantitative socio-economic study](https://medium.com/@worstonlinedater/tinder-experiments-ii-guys-unless-you-are-really-hot-you-are-probably-better-off-not-wasting-your-2ddf370a6e9a)
+* [Least Desirable](https://medium.com/least-desirable/about-least-desirable-a5917edf6016)
+* In Defense of Tinder
+* [How Tinder Changed Dating](https://www.theatlantic.com/family/archive/2018/12/tinder-changed-dating/578698/)
+* [I made a statistical game out of dating](https://www.theguardian.com/global/2017/may/13/love-maths-statistical-game-formula-happiness-dina-nayeri)
+
+#### Comments
+
+* https://news.ycombinator.com/item?id=19385829
+* https://www.reddit.com/r/AskFeminists/comments/8lu1vv/do_you_think_womens_advantage_in_dating_is_an/
+* https://talkpoverty.org/2016/03/28/the-inequality-of-online-dating/
+* https://quillette.com/2019/03/12/attraction-inequality-and-the-dating-economy/
+
+#### Books
+
+Color commentary
+
+* Labor of Love: The Invention of Dating
+* Future Sex
+* The All-or-Nothing Marriage
+* Dataclysm: Love, Sex, Race, and Identity--What Our Online Lives Tell Us about Our Offline Selves
