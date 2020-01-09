@@ -20,6 +20,9 @@
   * [Parity and predictability of competitions](https://arxiv.org/pdf/physics/0608007.pdf)
   * [Measuring parity in sports leagues with draws: Further comments](https://ourarchive.otago.ac.nz/bitstream/handle/10523/995/DP_1005.pdf?sequence=3)
   * [Scoring dynamics across professional team sports: tempo, balance and predictability](https://epjdatascience.springeropen.com/articles/10.1140/epjds29)
+  * [Parity and Predictability of Competitions](https://arxiv.org/pdf/physics/0608007.pdf)
+  * [Understanding Baseball Team Standings and Streaks
+](https://arxiv.org/pdf/0804.1110.pdf)
   * [Predicting sports scoring dynamics with restoration and anti-persistence](https://arxiv.org/pdf/1504.05872.pdf)
   * [NFL Scores Data](https://www.kaggle.com/tobycrabtree/nfl-scores-and-betting-data)
     * Could use NFL/NBA scores to sample from to simulate win/loss distributions based on observed score distributions
