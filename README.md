@@ -63,6 +63,17 @@ Top heavy vs parity, different resulting distributions based on these initial co
 * [The Math of Fantasy Football](https://web.wpi.edu/Pubs/E-project/Available/E-project-042513-140309/unrestricted/ASL_MQP_jpa.pdf)
 * https://www.inpredictable.com/p/methodology.html
 
+### Random Equations
+
+Generate random equations, how likely are they to have solutions?
+
+It is a well studied problem but could be fun to approach it naively and see if brute force results point towards equations from papers.
+
+#### Papers
+
+* The solution space geometry of random linear equations
+* On the solution-space geometry of random constraint satisfaction problems
+
 ### Statistical Dynamics in Online Dating
 
 #### Papers
