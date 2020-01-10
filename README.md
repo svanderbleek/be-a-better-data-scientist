@@ -17,6 +17,8 @@
 
 * [matlib](https://cran.r-project.org/web/packages/matlib/)
 * [mosiac](https://cran.r-project.org/web/packages/mosaic/index.html)
+  * [R for Calclulus](https://dtkaplan.github.io/RforCalculus/preface.html)
+  * [Statistical Modeling](https://dtkaplan.github.io/SM2-bookdown/preface-to-this-electronic-version.html)
 * [Swirl courses](http://swirlstats.com/scn/title.html)
   * Advanced R programming (functional stuff)
   * Getting and cleaning data
