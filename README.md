@@ -22,10 +22,11 @@
   * Exploritory data analysis
   * Regression models
   * Statistical inference
+* [Google ML course](https://developers.google.com/machine-learning/crash-course)
 
 ### R Texts for learning
 
-* [Discrete Data Analysi](http://ddar.datavis.ca/)
+* [Discrete Data Analysis](http://ddar.datavis.ca/)
 
 ## Example Analysis
 
