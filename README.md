@@ -16,6 +16,12 @@
 ### Packages for learning
 
 * [matlib](https://cran.r-project.org/web/packages/matlib/)
+* [Swirl courses](http://swirlstats.com/scn/title.html)
+  * Advanced R programming (functional stuff)
+  * Getting and cleaning data
+  * Exploritory data analysis
+  * Regression models
+  * Statistical inference
 
 ### R Texts for learning
 
