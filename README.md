@@ -16,6 +16,7 @@
 ### Packages for learning
 
 * [matlib](https://cran.r-project.org/web/packages/matlib/)
+* [mosiac](https://cran.r-project.org/web/packages/mosaic/index.html)
 * [Swirl courses](http://swirlstats.com/scn/title.html)
   * Advanced R programming (functional stuff)
   * Getting and cleaning data
