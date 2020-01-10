@@ -27,6 +27,10 @@
   * Statistical inference
 * [Google ML course](https://developers.google.com/machine-learning/crash-course)
 
+### Articles for learning
+
+* https://www.alexpghayes.com/blog/overfitting-a-guided-tour/
+
 ### R Texts for learning
 
 * [Discrete Data Analysis](http://ddar.datavis.ca/)
