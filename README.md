@@ -46,6 +46,8 @@
 * [Matrix Algebra Topics in Statistics and
 Economics Using R](http://www.math.uni.wroc.pl/~dyba/materials/AlgLin/chapVinod.pdf)
   * Use base R matrix tools to conduct simple statistical analysis of easy datasets
+* [Predicting Defaults](http://dukedatasciencefico.cs.duke.edu/)
+  * Interperable models and visualization
 
 ## Exercises
 
