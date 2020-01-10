@@ -8,6 +8,7 @@
 * https://en.wikipedia.org/wiki/St._Petersburg_paradox
 * https://en.wikipedia.org/wiki/Sammon_mapping
 * https://towardsdatascience.com/horseshoe-priors-f97672b4f7cb
+* [Explaining Odds Ratios](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2938757/)
 
 ### Papers
 
