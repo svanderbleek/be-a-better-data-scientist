@@ -7,6 +7,7 @@
 * https://en.wikipedia.org/wiki/Kelly_criterion
 * https://en.wikipedia.org/wiki/St._Petersburg_paradox
 * https://en.wikipedia.org/wiki/Sammon_mapping
+* https://en.wikipedia.org/wiki/Scoring_rule
 * https://towardsdatascience.com/horseshoe-priors-f97672b4f7cb
 * [Explaining Odds Ratios](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2938757/)
 * [The little handbook of statistical practice](http://www.jerrydallal.com/lhsp/lhsp.htm)
