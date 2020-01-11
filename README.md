@@ -9,6 +9,7 @@
 * https://en.wikipedia.org/wiki/Sammon_mapping
 * https://towardsdatascience.com/horseshoe-priors-f97672b4f7cb
 * [Explaining Odds Ratios](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2938757/)
+* [The little handbook of statistical practice](http://www.jerrydallal.com/lhsp/lhsp.htm)
 
 ### Papers
 
