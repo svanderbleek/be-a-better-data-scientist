@@ -12,6 +12,8 @@
 * [Explaining Odds Ratios](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2938757/)
 * [Log-transform and its implications for data analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4120293/)
 * [The little handbook of statistical practice](http://www.jerrydallal.com/lhsp/lhsp.htm)
+* https://en.wikipedia.org/wiki/Generalized_estimating_equation
+* https://en.wikipedia.org/wiki/Heteroscedasticity-consistent_standard_errors
 
 ### Papers
 
