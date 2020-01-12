@@ -17,6 +17,9 @@
 
 > If you want to read the derivations of the properties of the various tests, they're usually available. I've read Pearson's paper on the multinomial chi-square goodness of fit test, Student's paper on the t-test, later papers by Fisher on both tests (as well as papers by other authors on them); I've read Wilcoxon's paper where he does both the rank sum and signed rank tests; Mann and Whitney's paper that develops U-statistics and extends Wilcoxon's rank sum test; Kruskal and Wallis' paper on their test; Freidman's paper on his, and so on through hundreds more papers.
 
+* [The theory of unbiased estimation](https://projecteuclid.org/download/pdf_1/euclid.aoms/1177731020)
+* Some sampling simplified
+
 ### Packages for learning
 
 * [matlib](https://cran.r-project.org/web/packages/matlib/)
