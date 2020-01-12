@@ -56,6 +56,8 @@ Economics Using R](http://www.math.uni.wroc.pl/~dyba/materials/AlgLin/chapVinod.
   * Use base R matrix tools to conduct simple statistical analysis of easy datasets
 * [Predicting Defaults](http://dukedatasciencefico.cs.duke.edu/)
   * Interperable models and visualization
+* [Generalized Estimating Equations](https://rlbarter.github.io/Practical-Statistics/2017/05/10/generalized-estimating-equations-gee/)
+  * `geepack`
 
 ## Exercises
 
