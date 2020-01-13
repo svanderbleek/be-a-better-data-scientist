@@ -75,6 +75,8 @@ Economics Using R](http://www.math.uni.wroc.pl/~dyba/materials/AlgLin/chapVinod.
 For example in NBA right now 8th seeds have losing records, how expected would this outcome be?
 
 * [The dreadful race for 8th in the NBA's Western Conference is incredibly unfamiliar](https://www.espn.com/nba/story/_/id/28450353/the-dreadful-race-8th-nba-western-conference-incredibly-unfamiliar)
+
+The idea of expected seed penetration could be explored as well. How often should a division winner expect to make national, etc
   
 #### Standings
 
