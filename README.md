@@ -81,7 +81,7 @@ For example in NBA right now 8th seeds have losing records, how expected would t
   
 #### Parity
 
-Top heavy vs parity, different resulting distributions based on these initial conditions
+Top heavy vs parity, different resulting distributions based on these initial conditions. As a function of something like Gini coefficient or Pareto index produce W-L distributions.
 
 * [THE IMPACT OF SUPERTEAMS AND PARITY ON THE NBA](https://scholarsbank.uoregon.edu/xmlui/bitstream/handle/1794/24005/Final%20Thesis-Finci.pdf?sequence=1&isAllowed=y)
 * [Parity and predictability of competitions](https://arxiv.org/pdf/physics/0608007.pdf)
