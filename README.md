@@ -62,6 +62,7 @@ Economics Using R](http://www.math.uni.wroc.pl/~dyba/materials/AlgLin/chapVinod.
   * Pareto index parameter change over time in incomes
 * [Churn Rates](https://medium.com/swlh/youre-all-calculating-churn-rates-wrong-cbab072cd992)
   * Weibull/Lomax maximum likelihood
+* [Anomaly Detection in Google Trends Data](https://github.com/cattystats/Anomaly_Detection)
 
 ## Exercises
 
