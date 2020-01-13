@@ -58,6 +58,8 @@ Economics Using R](http://www.math.uni.wroc.pl/~dyba/materials/AlgLin/chapVinod.
   * Interperable models and visualization
 * [Generalized Estimating Equations](https://rlbarter.github.io/Practical-Statistics/2017/05/10/generalized-estimating-equations-gee/)
   * `geepack`
+* [Physics of personal income](https://arxiv.org/pdf/cond-mat/0202388.pdf)
+  * Pareto index parameter change over time in incomes
 
 ## Exercises
 
