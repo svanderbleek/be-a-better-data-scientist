@@ -66,6 +66,8 @@ Economics Using R](http://www.math.uni.wroc.pl/~dyba/materials/AlgLin/chapVinod.
 * [Anomaly Detection in Google Trends Data](https://github.com/cattystats/Anomaly_Detection)
 * [Tidygraph](http://www.questionflow.org/2018/03/06/tao-of-tidygraph/)
   * graph, book
+* [Factorization Machine for Recommendations](https://getstream.io/blog/factorization-recommendation-systems/)
+  * clicks data, FM machines
 
 ## Exercises
 
