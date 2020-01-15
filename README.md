@@ -4,6 +4,7 @@
 
 ### Reference
 
+* https://en.wikipedia.org/wiki/Mixed_model
 * https://en.wikipedia.org/wiki/Confounding
 * https://en.wikipedia.org/wiki/Kelly_criterion
 * https://en.wikipedia.org/wiki/St._Petersburg_paradox
