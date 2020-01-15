@@ -10,6 +10,7 @@
 * https://en.wikipedia.org/wiki/St._Petersburg_paradox
 * https://en.wikipedia.org/wiki/Sammon_mapping
 * https://en.wikipedia.org/wiki/Scoring_rule
+* https://en.wikipedia.org/wiki/Learning_to_rank
 * https://towardsdatascience.com/horseshoe-priors-f97672b4f7cb
 * [Explaining Odds Ratios](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2938757/)
 * [Log-transform and its implications for data analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4120293/)
