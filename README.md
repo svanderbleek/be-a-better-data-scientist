@@ -42,6 +42,11 @@
 
 * https://www.alexpghayes.com/blog/overfitting-a-guided-tour/
 
+### Python texts for learning
+
+* [Principles and Techniques of Data Science](https://www.textbook.ds100.org/)
+* [Another Book on Data Science](https://www.anotherbookondatascience.com/)
+
 ### R Texts for learning
 
 * [Discrete Data Analysis](http://ddar.datavis.ca/)
