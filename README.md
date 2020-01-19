@@ -9,6 +9,7 @@
 * https://en.wikipedia.org/wiki/G-test
 * https://en.wikipedia.org/wiki/Kernel_method
 * https://en.wikipedia.org/wiki/Kelly_criterion
+  * https://explore.paulbutler.org/bet/
 * https://en.wikipedia.org/wiki/St._Petersburg_paradox
 * https://en.wikipedia.org/wiki/Sammon_mapping
 * https://en.wikipedia.org/wiki/Scoring_rule
