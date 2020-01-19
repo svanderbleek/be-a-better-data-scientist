@@ -79,6 +79,8 @@ Economics Using R](http://www.math.uni.wroc.pl/~dyba/materials/AlgLin/chapVinod.
   * graph, book
 * [Factorization Machine for Recommendations](https://getstream.io/blog/factorization-recommendation-systems/)
   * clicks data, FM machines
+* [Exploratory with BayesDB](https://probcomp-1.csail.mit.edu/20170720-darpa/gapminder-exploratory.html)
+  * BayesDB, EDA
 
 ## Exercises
 
