@@ -56,6 +56,10 @@
 
 * [Discrete Data Analysis](http://ddar.datavis.ca/)
 
+## Simulation Analysis
+
+* http://varianceexplained.org/r/feller-coins/
+
 ## Example Analysis
 
 * [Salary Gender](https://juliasilge.com/blog/salary-gender/)
