@@ -59,6 +59,9 @@
 ## Simulation Analysis
 
 * http://varianceexplained.org/r/feller-coins/
+  * rle, rbinom, crossing
+* http://varianceexplained.org/r/honeycomb-puzzle/
+  * matrix
 
 ## Example Analysis
 
