@@ -62,6 +62,7 @@
   * rle, rbinom, crossing
 * http://varianceexplained.org/r/honeycomb-puzzle/
   * matrix
+* https://writings.stephenwolfram.com/2017/03/two-hours-of-experimental-mathematics/
 
 ## Example Analysis
 
@@ -70,8 +71,7 @@
   * linear mixed effects models
   * bayesian multi-level models
 * [Building Energy Use](https://towardsdatascience.com/a-complete-machine-learning-walk-through-in-python-part-one-c62152f39420)
-* [Matrix Algebra Topics in Statistics and
-Economics Using R](http://www.math.uni.wroc.pl/~dyba/materials/AlgLin/chapVinod.pdf)
+* [Matrix Algebra Topics in Statistics and Economics Using R](http://www.math.uni.wroc.pl/~dyba/materials/AlgLin/chapVinod.pdf)
   * Use base R matrix tools to conduct simple statistical analysis of easy datasets
 * [Predicting Defaults](http://dukedatasciencefico.cs.duke.edu/)
   * Interperable models and visualization
